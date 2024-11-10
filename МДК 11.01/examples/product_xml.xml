@@ -1,0 +1,62 @@
+<Products>
+    <Product>
+        <ProductId>1</ProductId>
+        <Name>Смартфон Samsung Galaxy S21</Name>
+        <Price>699.99</Price>
+        <Category>Электроника</Category>
+    </Product>
+    <Product>
+        <ProductId>2</ProductId>
+        <Name>Ноутбук Apple MacBook Pro</Name>
+        <Price>1299.99</Price>
+        <Category>Компьютеры</Category>
+    </Product>
+    <Product>
+        <ProductId>3</ProductId>
+        <Name>Телевизор LG OLED55CX</Name>
+        <Price>1499.99</Price>
+        <Category>Бытовая техника</Category>
+    </Product>
+    <Product>
+        <ProductId>4</ProductId>
+        <Name>Планшет Microsoft Surface Pro 7</Name>
+        <Price>799.99</Price>
+        <Category>Электроника</Category>
+    </Product>
+    <Product>
+        <ProductId>5</ProductId>
+        <Name>Наушники Sony WH-1000XM4</Name>
+        <Price>349.99</Price>
+        <Category>Аудио</Category>
+    </Product>
+    <Product>
+        <ProductId>6</ProductId>
+        <Name>Кофемашина De'Longhi Magnifica</Name>
+        <Price>599.99</Price>
+        <Category>Бытовая техника</Category>
+    </Product>
+    <Product>
+        <ProductId>7</ProductId>
+        <Name>Фитнес-браслет Xiaomi Mi Band 6</Name>
+        <Price>49.99</Price>
+        <Category>Гаджеты</Category>
+    </Product>
+    <Product>
+        <ProductId>8</ProductId>
+        <Name>Игровая консоль Sony PlayStation 5</Name>
+        <Price>499.99</Price>
+        <Category>Игры</Category>
+    </Product>
+    <Product>
+        <ProductId>9</ProductId>
+        <Name>Электрическая зубная щетка Oral-B</Name>
+        <Price>89.99</Price>
+        <Category>Здоровье</Category>
+    </Product>
+    <Product>
+        <ProductId>10</ProductId>
+        <Name>Камера Canon EOS M50</Name>
+        <Price>649.99</Price>
+        <Category>Фотоаппараты</Category>
+    </Product>
+</Products>

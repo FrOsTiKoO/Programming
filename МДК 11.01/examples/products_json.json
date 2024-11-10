@@ -1,0 +1,62 @@
+[
+    {
+        "ProductId": 1,
+        "Name": "Смартфон Samsung Galaxy S21",
+        "Price": 699.99,
+        "Category": "Электроника"
+    },
+    {
+        "ProductId": 2,
+        "Name": "Ноутбук Apple MacBook Pro",
+        "Price": 1299.99,
+        "Category": "Компьютеры"
+    },
+    {
+        "ProductId": 3,
+        "Name": "Телевизор LG OLED55CX",
+        "Price": 1499.99,
+        "Category": "Бытовая техника"
+    },
+    {
+        "ProductId": 4,
+        "Name": "Планшет Microsoft Surface Pro 7",
+        "Price": 799.99,
+        "Category": "Электроника"
+    },
+    {
+        "ProductId": 5,
+        "Name": "Наушники Sony WH-1000XM4",
+        "Price": 349.99,
+        "Category": "Аудио"
+    },
+    {
+        "ProductId": 6,
+        "Name": "Кофемашина De'Longhi Magnifica",
+        "Price": 599.99,
+        "Category": "Бытовая техника"
+    },
+    {
+        "ProductId": 7,
+        "Name": "Фитнес-браслет Xiaomi Mi Band 6",
+        "Price": 49.99,
+        "Category": "Гаджеты"
+    },
+    {
+        "ProductId": 8,
+        "Name": "Игровая консоль Sony PlayStation 5",
+        "Price": 499.99,
+        "Category": "Игры"
+    },
+    {
+        "ProductId": 9,
+        "Name": "Электрическая зубная щетка Oral-B",
+        "Price": 89.99,
+        "Category": "Здоровье"
+    },
+    {
+        "ProductId": 10,
+        "Name": "Камера Canon EOS M50",
+        "Price": 649.99,
+        "Category": "Фотоаппараты"
+    }
+]

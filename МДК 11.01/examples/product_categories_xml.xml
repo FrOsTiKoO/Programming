@@ -1,0 +1,21 @@
+<Products>
+     <Category name="Электроника">
+        <Product>
+            <ProductId>1</ProductId>
+            <Name>Смартфон Samsung Galaxy S21</Name>
+            <Price>699.99</Price>
+        </Product>
+        <Product>
+            <ProductId>4</ProductId>
+            <Name>Планшет Microsoft Surface Pro 7</Name>
+            <Price>799.99</Price>
+        </Product>
+    </Category>
+    <Category name="Компьютеры">
+        <Product>
+            <ProductId>2</ProductId>
+            <Name>Ноутбук Apple MacBook Pro</Name>
+            <Price>1299.99</Price>
+        </Product>
+    </Category>
+</Products>

@@ -1,0 +1,35 @@
+[
+    {
+        "ProductId": 1,
+        "Name": "Смартфон Samsung Galaxy S21",
+        "Price": 699.99,
+        "Category": "Электроника",
+		"dimensions": {
+			"width": 27.3,
+			"height": 27.48,
+			"depth": 15.08
+		}
+    },
+    {
+        "ProductId": 2,
+        "Name": "Ноутбук Apple MacBook Pro",
+        "Price": 1299.99,
+        "Category": "Компьютеры",
+		"dimensions": {
+			"width": 17.3,
+			"height": 17.48,
+			"depth": 15.08
+		}
+    },
+    {
+        "ProductId": 4,
+        "Name": "Планшет Microsoft Surface Pro 7",
+        "Price": 799.99,
+        "Category": "Электроника",
+		"dimensions": {
+			"width": 7.3,
+			"height": 7.48,
+			"depth": 15.08
+		}
+    }
+]

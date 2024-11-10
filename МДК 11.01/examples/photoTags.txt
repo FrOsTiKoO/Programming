@@ -1,0 +1,5 @@
+PhotoId;FileName;Tags
+1;1.jpg;summer,sea
+2;2.png;vacation,sea
+3;3.png;
+4;4.jpg;summer
