@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source = PRSERVER\SQLEXPRESS; Initial Catalog = ispp3502; User ID = ispp3502; Password = 3502; Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -ContextDir DatabaseContext -OutputDir Models -Context AppDbContext -Tables Category, Game -Force
